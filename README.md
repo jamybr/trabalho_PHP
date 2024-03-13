@@ -9,6 +9,7 @@
 [Fontes consultadas](#fontes-consultadas)   
 [Autores](#%EF%B8%8Fautores)
  ## 📝Descrição  
+ * O projeto "PHP Estruturas de Decisão" consiste em uma coleção de scripts em PHP que demonstram o uso de estruturas de decisão para realizar diferentes tarefas relacionadas à verificação de propriedades numéricas.  
 
  ## 🔛Funcionalidades  
 
