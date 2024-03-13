@@ -23,10 +23,7 @@
   ### 3. Verificar se um número é positivo, negativo ou neutro (zero):  
   * O script solicita ao usuário que insira um número.  
   * Em seguida, verifica se o número é positivo, negativo ou neutro (zero) e exibe o resultado na tela.  
-  
- ## 👾Instruções de Uso  
- 
- * O usuário deve inserir dados, como números, na barra da página a serem testados.
+
 
  ## ⚙️Composição do Projeto  
  
